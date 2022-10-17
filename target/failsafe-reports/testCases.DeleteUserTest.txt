@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: testCases.DeleteUserTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.245 s <<< FAILURE! - in testCases.DeleteUserTest
+testCases.DeleteUserTest.deleteUserTest  Time elapsed: 0.102 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <304>.
+
+	at SerenitywithRestAssured@1.0-SNAPSHOT/testCases.DeleteUserTest.deleteUserTest(DeleteUserTest.java:26)
+

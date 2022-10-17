@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Json test","Read JSO nfile","SUCCESS","2022-10-17T13:51:58.1631052+05:30[Asia/Calcutta]","0.0","0.82"
+"Create user test","Creating Multiple users test","SUCCESS","2022-10-17T13:51:59.8892762+05:30[Asia/Calcutta]","0.0","0.61"
+"Delete user test","Deleting the user details","FAILURE","2022-10-17T13:52:00.0587225+05:30[Asia/Calcutta]","0.0","0.19"
+"Get user test","Getting the user details","SUCCESS","2022-10-17T13:52:00.3279723+05:30[Asia/Calcutta]","0.0","0.07"
